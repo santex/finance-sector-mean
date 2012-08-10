@@ -1,0 +1,6 @@
+Revision history for Perl extension Finance::Google::Sector::Mean.
+
+0.06  Thu Jan  5 07:13:13 2012
+	- original version; created by h2xs 1.23 with options
+		-AX Finance::Google::Sector::Mean
+

@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Finance-Google-Sector-Mean.t
+lib/Finance/Google/Sector/Mean.pm
